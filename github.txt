@@ -1,0 +1,6 @@
+git init
+git add index.html
+git commit -m "Initial commit: Add splash screen"
+git branch -M main
+git remote add origin https://github.com/[your-username]/MidtermServer-[your-student-number].git
+git push -u origin main
